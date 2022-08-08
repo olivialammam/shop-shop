@@ -23,5 +23,9 @@ THEN I find that the app uses Redux instead of the Context API
 
 # Mock-Up
 ![patata](https://user-images.githubusercontent.com/95842420/183378505-d5654f12-c956-4bfe-adfa-d35164867950.gif)
+![patata1](https://user-images.githubusercontent.com/95842420/183378810-ee6910bd-b237-4e2b-a1fa-92651158c232.gif)
+![patat2](https://user-images.githubusercontent.com/95842420/183378817-437a4487-c8d3-439a-8521-0b55fca9df13.gif)
+
 
 # GitHub
+https://github.com/olivialammam/shop-shop
